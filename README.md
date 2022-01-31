@@ -11,6 +11,7 @@
 프로젝트 폴더 -> https://github.com/breakhuman/Prototype.git
 
 오류 생길시 텔레그램 또는 세션 " 05a478cc5ece2b99c57cb5af5112502c1e66e9838e37bc51d05bfce8d9180ce866 "으로 연락 바람
+
 세팅
 =========
 설치 패키지들
