@@ -14,16 +14,21 @@
 
 세팅
 =========
+
 설치 패키지들
 -------
+
 다음 패키지를 설치 해야합니다.
-github https://github.com/91DarioDev/forwardscoverbot
-(아직 안해도 됌)
+
+github https://github.com/91DarioDev/forwardscoverbot (아직 안해도 됌)
+
 pip(repo) python-telegram-bot
+
 log
 ----
 logging은 실행하면 해당 디렉토리에 log.txt가 있으시겠습니다.
 만약 오류가 생긴다면 로그 파일을 참조하시길 바랍니다.
+
 token
 ----
 토큰은 replace 기능을 이용하여 id 부분을 바꾸시거나 tgkey 에 있는 토큰을 replace 하여 사용하시길 바랍니다.
