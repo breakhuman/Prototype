@@ -26,7 +26,7 @@ pip(repo) python-telegram-bot
 log
 ----
 logging은 실행하면 해당 디렉토리에 log.txt가 있으시겠습니다.
-만약 오류가 생긴다면 로그 파일을 참조하시길 바랍니다.
+만약 오류가 생긴다면 log.txt 참조하시길 바랍니다.
 
 token
 ----
